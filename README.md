@@ -1,1 +1,0 @@
-# CleanPro_Equipo12
