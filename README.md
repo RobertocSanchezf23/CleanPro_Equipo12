@@ -40,8 +40,8 @@ CleanPro presta servicios de limpieza residencial y empresarial. Esta actividad 
 | 01 | Informe de arquitectura (Reporte FIME) | [`ACT-F03. DISEÑO ARQUITECTURAL DEL SISTEMA_Equipo 12.pdf`](docs/) |
 | 02 | Mapa de dominio y diagrama de clases | [`diagrams/src`](diagrams/src) (`.drawio`) · [`diagrams/png`](diagrams/png) |
 | 03 | 2 diagramas de secuencia (CU-03 y CU-05) | [`diagrams/src`](diagrams/src) · [`diagrams/png`](diagrams/png) |
-| 04 | Matriz de trazabilidad actualizada | [`Matriz_Trazabilidad_CleanPro_U3.pdf`](docs/matriz-trazabilidad.pdf) |
-| 05 | Bitácora de IA | [`Bitacora_IA_CleanPro_U3.pdf`](docs/bitacora-ia.pdf) |
+| 04 | Matriz de trazabilidad actualizada | [`Matriz_Trazabilidad_CleanPro_U3.pdf`](docs/Matriz_Trazabilidad_CleanPro_U3.pdf) |
+| 05 | Bitácora de IA | [`Bitacora_IA_CleanPro_U3.pdf`](docs/Bitacora_IA_CleanPro_U3.pdf) |
 | 06 | Código base (C# / .NET 8) | [`src/`](src) y [`tests/`](tests) |
 | — | ADR | [`docs/adr/`](docs/adr) |
 
