@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Capa de dominio: reglas e invariantes de CleanPro. No referencia a ningún otro proyecto. -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>CleanPro.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>

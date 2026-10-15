@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Infraestructura: implementa las interfaces del dominio y de la aplicación.
+       Las dependencias apuntan hacia adentro: Infrastructure -> Application -> Domain (SOLID S-7). -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>CleanPro.Infrastructure</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanPro.Domain\CleanPro.Domain.csproj" />
+    <ProjectReference Include="..\CleanPro.Application\CleanPro.Application.csproj" />
+  </ItemGroup>
+
+</Project>
